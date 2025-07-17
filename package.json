@@ -14,7 +14,7 @@
     "@absinthe/socket-apollo-link": "^0.2.1",
     "@adyen/adyen-web": "^6.8.0",
     "@apollo/client": "^3.11.4",
-    "@babel/runtime": "7.26.0",
+    "@babel/runtime": "7.26.10",
     "@datadog/browser-rum": "^4.45.0",
     "@datadog/datadog-ci": "^2.34.0",
     "@emotion/core": "^10.0.27",
